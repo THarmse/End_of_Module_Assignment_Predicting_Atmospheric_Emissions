@@ -1,0 +1,16 @@
+# Tools needed for building packages
+setuptools>=67.7.2        # Latest setuptools replacing distutils for building packages
+wheel>=0.40.0             # Latest wheel version
+
+# For data processing
+pandas>=2.0.3             # Latest version for data manipulation and analysis
+numpy>=1.25.0             # Required by pandas and for numerical processing
+openpyxl>=3.1.3           # For reading/writing Excel files
+XlsxWriter>=3.0.10        # For writing Excel files
+
+# For machine learning models
+scikit-learn>=1.2.2       # Latest version for machine learning algorithms
+xgboost>=1.7.5            # Latest version for gradient boosting models
+
+# For visualization
+matplotlib>=3.7.1         # Latest version for plotting and visualizing data
