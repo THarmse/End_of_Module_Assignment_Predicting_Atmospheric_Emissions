@@ -12,5 +12,6 @@ XlsxWriter>=3.0.10        # For writing Excel files
 scikit-learn>=1.2.2       # Latest version for machine learning algorithms
 xgboost>=1.7.5            # Latest version for gradient boosting models
 
+
 # For visualization
 matplotlib>=3.7.1         # Latest version for plotting and visualizing data

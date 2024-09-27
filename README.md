@@ -13,6 +13,8 @@ Ensure installation of python and run following
 3. pip install setuptools
 4. python -m pip install --upgrade pip
 5. pip install xlsxwriter
+1. pip install xgboost
+
 
 
 Setup code repo
