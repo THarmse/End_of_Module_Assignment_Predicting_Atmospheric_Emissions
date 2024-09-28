@@ -7,14 +7,19 @@ https://data.london.gov.uk/download/london-atmospheric-emissions-inventory--laei
 
 Models 
 
+GitHub
+Clone Repository
+https://github.com/THarmse/End_of_Module_Assignment_Predicting_Atmospheric_Emissions.git
+
 Ensure installation of python and run following
-1. Python  (3.11 to be used)
+1. Python  (3.11 to be used, not anything above)
+
+In CMD, run these commands
 2. python -m ensurepip --upgrade
 3. pip install setuptools
 4. python -m pip install --upgrade pip
 5. pip install xlsxwriter
 1. pip install xgboost
-
 
 
 Setup code repo
@@ -25,9 +30,11 @@ Setup code repo
 4. Restart Visual Studio (or related application)
 
 
-Data Processing
+Run this command to install requirements
 Execute:   pip install -r requirements.txt
 pip install --upgrade pandas
+
+
 
 Run Notebook
 
