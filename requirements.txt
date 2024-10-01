@@ -15,3 +15,4 @@ xgboost>=1.7.5            # Latest version for gradient boosting models
 
 # For visualization
 matplotlib>=3.7.1         # Latest version for plotting and visualizing data
+imbalanced-learn

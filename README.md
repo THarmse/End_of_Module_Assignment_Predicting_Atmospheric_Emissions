@@ -66,6 +66,8 @@ Clone the GitHub repository to get a copy of the project code:
 
        pip install xlsxwriter
        pip install xgboost
+       pip install imbalanced-learn
+
 
 ### Git Large File Storage (LFS) Setup
 
@@ -175,6 +177,9 @@ If you encounter errors related to `openpyxl` or other dependencies, follow thes
 2. **Install Openpyxl**
 
        conda install -c conda-forge openpyxl
+
+   --Other example for another package
+       conda install -c conda-forge imbalanced-learn
 
 3. **Restart Jupyter Kernel**
 
