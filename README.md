@@ -127,7 +127,6 @@ We will train and evaluate the following three machine learning models:
 1. **XGBoost**
 2. **random_forest** 
 3. **svr** 
-3. **svr**
 
 #### Steps to Run Each Model
 
