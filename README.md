@@ -83,7 +83,8 @@ Clone the GitHub repository to get a copy of the project code:
 
        git lfs install
 
-4. Track the file   
+4. Track the file 
+  
        git lfs track "models/<filename>.<extension>"
 
 
@@ -157,8 +158,8 @@ After training, evaluate each model's performance.
 1. **Open the Evaluation Notebook**
 
    - For XGBoost: `notebooks/models/xgboost_model_evaluation.ipynb`
-   - For Model 2: `notebooks/models/random_forest_model_evaluation.ipynb`
-   - For Model 3: `notebooks/models/svr_model_evaluation.ipynb`
+   - For Random Forest: `notebooks/models/rf_model_evaluation.ipynb`
+   - For SVR: `notebooks/models/svr_model_evaluation.ipynb`
 
 2. **Trust the Notebook**
 
