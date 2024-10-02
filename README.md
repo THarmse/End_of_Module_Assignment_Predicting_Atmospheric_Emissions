@@ -83,7 +83,11 @@ Clone the GitHub repository to get a copy of the project code:
 
        git lfs install
 
-4. **Restart Your Development Environment**
+4. Track the file   
+       git lfs track "models/<filename>.<extension>"
+
+
+5. **Restart Your Development Environment**
 
    - If you're using Visual Studio or another IDE, restart it to apply changes.
 
