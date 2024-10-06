@@ -135,6 +135,21 @@ We will train and evaluate the following three machine learning models:
 2. **random_forest** 
 3. **svr** 
 
+#### Steps to Run Data Pre-Processing
+1. Ensure the entire Dataset is located in data/raw/LAEI-2019-Emissions-Summary-including-Forecast.xlsx
+   - Note: This should not be the .zip file, but just the excel file as per the above path.  The data can be downloaded here: https://data.london.gov.uk/download/london-atmospheric-emissions-inventory--laei--2019/17d21cd1-892e-4388-9fea-b48c1b61ee3c/LAEI-2019-Emissions-Summary-including-Forecast.zip
+2. **Open the Model Notebook**
+
+   - PreProcessing: `notebooks/data/preprocess.ipynb`
+
+3. **Trust the Notebook**
+
+   - Go to **File** -> **Trust Notebook**
+
+4. **Run the Notebook**
+
+   - Execute all cells to perform data preprocessing
+
 #### Steps to Run Each Model
 
 1. **Open the Model Notebook**
